@@ -1,6 +1,8 @@
 {
+  "type": "module",
   "dependencies": {
     "dotenv": "^17.2.3",
-    "type": "module"
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
   }
 }
